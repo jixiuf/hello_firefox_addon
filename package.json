@@ -1,0 +1,9 @@
+{
+  "name": "hello_firefox_addon",
+  "title": "hello_firefox_addon",
+  "id": "jid1-JUsrN6jwO0AIow",
+  "description": "a basic add-on",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
