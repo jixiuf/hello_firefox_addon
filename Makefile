@@ -5,3 +5,5 @@ run:
 	cfx run
 test:
 	cfx test
+xpi:
+	cfx xpi
