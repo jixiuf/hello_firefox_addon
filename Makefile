@@ -7,3 +7,5 @@ test:
 	cfx test
 xpi:
 	cfx xpi
+xpi-mobile:
+	cfx xpi --force-mobile
